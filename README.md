@@ -1,0 +1,2 @@
+# Hand-Gesture-Controlled-System
+Instead of using a keyboard, mouse or joystick, we can use our hand gestures to control certain functions of a computer like to play/pause a video, increase/decrease the volume, move left/right in a photo slideshow, and scroll up/down in a web page and many more. This is why we decided to control VLC Media Player as a “ARDUINO BASED HAND GESTURE CONTROL APPLICATION” project.
