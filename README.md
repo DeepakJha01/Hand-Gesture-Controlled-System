@@ -1,2 +1,1 @@
-# Hand-Gesture-Controlled-System
-Instead of using a keyboard, mouse or joystick, we can use our hand gestures to control certain functions of a computer like to play/pause a video, increase/decrease the volume, move left/right in a photo slideshow, and scroll up/down in a web page and many more. This is why we decided to control VLC Media Player as a “ARDUINO BASED HAND GESTURE CONTROL APPLICATION” project.
+Application that performs basic actions lik evolume up/down, video forward/rewind, video play/pause and page scrolling according to the distance of the hands from the screen using Arduino UNO board and ultrasonic sensors
